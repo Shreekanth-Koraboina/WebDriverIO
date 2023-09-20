@@ -1,4 +1,4 @@
-Jasmine Boilerplate ![CI](https://github.com/webdriverio/jasmine-boilerplate/workflows/CI/badge.svg?event=push)
+Jasmine WebDriverIO Assement ![CI](https://github.com/webdriverio/jasmine-boilerplate/workflows/CI/badge.svg?event=push)
 ===================
 
 Boilerplate project to run WebdriverIO tests with Jasmine using latest ES2016 features and the page objects pattern.
