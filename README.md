@@ -9,7 +9,7 @@ __Note:__ the current boilerplate uses an alpha version of the new WebdriverIO `
 
 Choose one of the following options:
 
-1. Download the latest stable release [here](https://github.com/webdriverio/jasmine-boilerplate/archive/master.zip) or clone the git repo — `git clone https://github.com/webdriverio/jasmine-boilerplate.git`
+1. Download the latest stable release [here](https://github.com/webdriverio/jasmine-boilerplate/archive/master.zip) or clone the git repo — `git clone https://github.com/Shreekanth-Koraboina/WebDriverIO.git`
 
 2. Then copy the files to your project directory (all files in `/test` and the `wdio.*.conf.js`)
 
