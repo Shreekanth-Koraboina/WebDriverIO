@@ -11,7 +11,7 @@ export default {
     SOCIAL_INCOME_YES_RADIO: '#yes-social-benefits',
     SOCIAL_SECURITY_OVERRIDE_AMOUNT: '#social-security-override',
 
-     //Pop Locators
+     //Default Popup Locators
     DEFAULT_SELECTOR_POPUP: '//*[@id="retirement-form"]/div[4]/div[1]/div/div/div/ul/li[2]/a',
     ADDITIONAL_OTHER_INCOME: '#additional-income',
     PUPUP_RETIREMENT_DURATION: '#retirement-duration',
