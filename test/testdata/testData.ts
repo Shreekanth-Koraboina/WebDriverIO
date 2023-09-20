@@ -11,7 +11,7 @@ export default {
     MARIATAL_STATUS: 'Married',
     SOCIAL_SECURITY_OVERRIDE_AMOUNT: '$4000',
 
-    //Pop TestData
+    //Popup TestData
     ADDITIONAL_OTHER_INCOME: '500',
     PUPUP_RETIREMENT_DURATION: 20,
     FINAL_ANUAL_INCOME_DESIRED: '75%',
