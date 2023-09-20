@@ -1,4 +1,4 @@
-import demoPage from './demoFunctions.js'
+import demoPage from '../PageObject/demoFunctions.js'
 
 //Feature
 describe('Fill retirement calculator form', () => {
