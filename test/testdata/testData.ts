@@ -19,7 +19,7 @@ export default {
     POST_RETIREMENT_INVESTIMENT_RETURN: '5',
 
     //Expected result
-    RESULT: 'In order to retire by 60, you might need to consider increasing your monthly savings by',
+    RESULT: 'In order to retire by 68, you might need to consider increasing your monthly savings by',
 
     //Expected  madateray filed message
     REQUIRED_FIELDS_EXPECTED_MSG: 'Please fill out all required fields',
