@@ -57,4 +57,14 @@ describe('Fill retirement calculator form', () => {
         await demoPage.quit()
     })
 
+    //Senario #5 calculator form with Social secutity value is No
+    it('I filled the calculator form with Social secutity value is No', async () => {
+     //Steps
+        await demoPage.open()
+        await demoPage.verifyPageDisplayed()
+        await demoPage.fillFormDetails()
+        await demoPage.clickCalculatorButton()
+        await demoPage.verifyResultDisplayed()
+        await demoPage.close()
+        await demoPage.quit()
 })
