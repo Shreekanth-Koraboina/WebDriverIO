@@ -1,4 +1,4 @@
-import { config as sharedConfig } from './wdio.common.conf.js'
+/*import { config as sharedConfig } from './wdio.common.conf.js'
 
 export const config: WebdriverIO.Config = {
     ...sharedConfig,
@@ -17,4 +17,4 @@ export const config: WebdriverIO.Config = {
             }
         }]
     }
-}
+}*/
